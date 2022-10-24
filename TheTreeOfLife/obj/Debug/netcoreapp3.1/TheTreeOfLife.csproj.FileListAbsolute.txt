@@ -1,0 +1,14 @@
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\obj\Debug\netcoreapp3.1\TheTreeOfLife.csproj.AssemblyReference.cache
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\obj\Debug\netcoreapp3.1\TheTreeOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\obj\Debug\netcoreapp3.1\TheTreeOfLife.AssemblyInfoInputs.cache
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\obj\Debug\netcoreapp3.1\TheTreeOfLife.AssemblyInfo.cs
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\obj\Debug\netcoreapp3.1\TheTreeOfLife.csproj.CoreCompileInputs.cache
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\bin\Debug\netcoreapp3.1\TheTreeOfLife.exe
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\bin\Debug\netcoreapp3.1\TheTreeOfLife.deps.json
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\bin\Debug\netcoreapp3.1\TheTreeOfLife.runtimeconfig.json
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\bin\Debug\netcoreapp3.1\TheTreeOfLife.runtimeconfig.dev.json
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\bin\Debug\netcoreapp3.1\TheTreeOfLife.dll
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\bin\Debug\netcoreapp3.1\TheTreeOfLife.pdb
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\obj\Debug\netcoreapp3.1\TheTreeOfLife.dll
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\obj\Debug\netcoreapp3.1\TheTreeOfLife.pdb
+C:\Users\12297\OneDrive\Desktop\TheTreeOfLife\obj\Debug\netcoreapp3.1\TheTreeOfLife.genruntimeconfig.cache
