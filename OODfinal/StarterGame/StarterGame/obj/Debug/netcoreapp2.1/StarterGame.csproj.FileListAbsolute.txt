@@ -1,0 +1,13 @@
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.AssemblyReference.cache
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.genruntimeconfig.cache

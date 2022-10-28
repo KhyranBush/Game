@@ -1,0 +1,13 @@
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\TheTreeOfLife1.0.deps.json
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\TheTreeOfLife1.0.runtimeconfig.json
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\TheTreeOfLife1.0.runtimeconfig.dev.json
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\TheTreeOfLife1.0.dll
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\TheTreeOfLife1.0.pdb
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\TheTreeOfLife1.0.csproj.AssemblyReference.cache
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\TheTreeOfLife1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\TheTreeOfLife1.0.AssemblyInfoInputs.cache
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\TheTreeOfLife1.0.AssemblyInfo.cs
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\TheTreeOfLife1.0.csproj.CoreCompileInputs.cache
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\TheTreeOfLife1.0.dll
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\TheTreeOfLife1.0.pdb
+C:\Users\12297\StarterGame1.0 (1)\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\TheTreeOfLife1.0.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "alTG9lT3cRcQfh2jWifHK/E4uPRLT1DzjpW68ZeFJp2J7Po2VfrVtMCa3+4jhqKk/3HDz9xO5rmX0//tnaLY6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12297\\StarterGame1.0 (1)\\StarterGame\\StarterGame\\TheTreeOfLife.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12297\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\12297\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\12297\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\12297\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\12297\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\12297\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\12297\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
