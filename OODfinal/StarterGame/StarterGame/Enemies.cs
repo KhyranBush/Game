@@ -8,7 +8,7 @@ namespace TheTreeOfLife
     public class Enemies : enemies
     {
 
-        public int position;
+        public Room position;
         private int health;
         private int power;
         private int exp;
@@ -18,7 +18,7 @@ namespace TheTreeOfLife
         public void firstBoss(string name,int Level, int pos, int health, int power, int exp, int gold, int loot)
         {
             name = "Ethereal Spirit - Rohin, The First Ascender";
-            pos = position;
+            pos = position;// floorOr4
             health = 5;
             power = 2;
             exp = 10;
@@ -28,7 +28,7 @@ namespace TheTreeOfLife
         }
         public void secondBoss(string name, int Level, int pos, int health, int power, int exp, int gold, int loot)
         {
-            name = "Kaglalryn: Half dragon protector of Isaiel ";
+            name = "Kaglalryn: Half-Dragon GateKeeper";
             pos = position;
             health = 5;
             power = 2;
@@ -39,7 +39,7 @@ namespace TheTreeOfLife
         }
         public void thirdBoss(string name, int Level, int pos, int health, int power, int exp, int gold, int loot)
         {
-            name = "Aeric Giant Slayer: Berserker Chief of Isaiel";
+            name = "Aeric Giant Slayer: The Berserker Warrior of Isaiel";
             pos = position;
             health = 5;
             power = 2;
@@ -50,7 +50,7 @@ namespace TheTreeOfLife
         }
         public void fourthBoss(string name, int Level, int pos, int health, int power, int exp, int gold, int loot)
         {
-            name = "Solomon Kingdoms Bane:King Supreme of Isaiel";
+            name = "Solomon Kingdoms's Bane:King Supreme of Isaiel";
             pos = position;
             health = 5;
             power = 2;
