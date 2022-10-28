@@ -105,6 +105,7 @@ namespace TheTreeOfLife
             gold = 15;
             loot = 0;
         }
+        IDictionary<int, string> mobNames = new Dictionary<int, string>(); 
 
 
 
