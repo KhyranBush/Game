@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TheTreeOfLife1.0/1.0.0": {
+        "runtime": {
+          "TheTreeOfLife1.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheTreeOfLife1.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
